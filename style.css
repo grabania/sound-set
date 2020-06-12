@@ -1,1 +1,16 @@
-
+.keys {
+	display: flex;
+	flex-direction: row;
+}
+.key {
+	border: 1px solid #454d54;
+	border-radius: 0.1rem;
+	color: #454d54;
+	background-color: transparent;
+	background-image: none;
+	margin: 1rem;
+	font-size: 1.5rem;
+	padding: .7rem 1rem;
+	width: 100%;
+	text-align: center;
+}
