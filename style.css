@@ -1,6 +1,9 @@
 .keys {
 	display: flex;
 	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
 }
 .key {
 	border: 1px solid #454d54;
@@ -13,4 +16,5 @@
 	padding: .7rem 1rem;
 	width: 100%;
 	text-align: center;
+	transition: all 0.07s;
 }
