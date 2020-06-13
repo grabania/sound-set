@@ -22,4 +22,10 @@
 	transform: scale(1.1);
 	/* background-color: #454d54;
 	color: white; */
+	border-color: yellow;
+}
+kbd {
+	display: block;
+	font-size: 24px;
+	text-transform: uppercase;
 }
